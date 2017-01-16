@@ -23,3 +23,11 @@ Things you may want to cover:
 
 * ...
 # Ruby-Hello
+
+#Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the 
+[*Ruby on rails tutorial*] (http://www.railstutorial.org/)
+by [Michael Hartl] (http://www.michaelhartl.com). Hello, world!
